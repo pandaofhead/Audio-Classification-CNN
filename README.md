@@ -47,6 +47,6 @@ Please download two files(TinySOL_metadata.csv, TinySOL.tar.gz). In this project
 ## Model Prediction & Plot
 ### predict.ipynb & plot.ipynb
 
-
+![roc_confusion](image/MergedImages%20(8).png)
 
 
