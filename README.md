@@ -25,7 +25,7 @@ Please download two files(TinySOL_metadata.csv, TinySOL.tar.gz). In this project
 
 **test_threshold(args)**: testing the thresholding function. Manually test thresholds before calling split_wavs function.
 
-**split_wavs(args)**: Main function that excutes the cleaning process.
+**split_wavs(args)**: Main function that executesthe cleaning process.
 
 
 ## Model Training
