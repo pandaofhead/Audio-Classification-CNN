@@ -1,5 +1,5 @@
 # Audio-Classification-CNN
-This is a course project@**Cornell Tech CS5785 Fall 2023**
+This is a project using python models to classify audios.
 
 In this project, CNN models including **Conv1D, Conv2D and LSTM** are used to classify audio files(musical instrument/type), and reaching a high accuracy ranging from **97% - 99%!**
 ![ThreeModels](image/ThreeModels.png)
